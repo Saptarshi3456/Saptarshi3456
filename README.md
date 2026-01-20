@@ -1,4 +1,9 @@
 # 💫 About Me:
+<h1 align="center">Hello, I'm Saptarshi Basak</h1>
+<h3 align="center">A Passionate Software Developer From India</h3>
+
+<img align="right" width="680" height="488" alt="image" src="https://github.com/user-attachments/assets/b93d6758-32e7-448e-af62-d103b1ba4c96" />
+
 I am a Google Gemini Student Ambassador <br>Gen AI, Gemini API, Dataplex, Cloud, GCP, DevOps, Frontend and Backend Development <br>Google Cloud Practitioner {Backend work in Cloud Shell, GKE Cluster making in Kubernetes Engine etc.}<br>Google (Digital Skillshop) Certified in DV360 tool<br>Open Source Contributor at Hacktoberfest <br>Honoured as 'Super Contributor' at Hacktoberfest 2025<br>Oracle Cloud Infrastructure <br>
 
 
