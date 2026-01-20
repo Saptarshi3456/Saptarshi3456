@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hello, I'm Saptarshi Basak</h1>
+<h1 align="center">Hello 👋, I'm Saptarshi Basak</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
 <img align="right" width="680" height="488" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydzc0OTVjazcxZ2w1YTgyeXdnMjYwejZueHJuNjJ2MDRhN3g0ZXU4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p4NLw3I4U0idi/giphy.gif">
